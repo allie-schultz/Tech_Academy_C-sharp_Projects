@@ -1,0 +1,7 @@
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\SixPartAssignment\SixPartAssignment\bin\Debug\SixPartAssignment.exe.config
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\SixPartAssignment\SixPartAssignment\bin\Debug\SixPartAssignment.exe
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\SixPartAssignment\SixPartAssignment\bin\Debug\SixPartAssignment.pdb
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\SixPartAssignment\SixPartAssignment\obj\Debug\SixPartAssignment.csproj.AssemblyReference.cache
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\SixPartAssignment\SixPartAssignment\obj\Debug\SixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\SixPartAssignment\SixPartAssignment\obj\Debug\SixPartAssignment.exe
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\SixPartAssignment\SixPartAssignment\obj\Debug\SixPartAssignment.pdb
