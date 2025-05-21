@@ -1,0 +1,7 @@
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\CallingMethodsAssignment.exe.config
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\CallingMethodsAssignment.exe
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\CallingMethodsAssignment.pdb
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.csproj.AssemblyReference.cache
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.exe
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.pdb
