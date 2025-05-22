@@ -1,0 +1,7 @@
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\VoidMethodAssignment.exe.config
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\VoidMethodAssignment.exe
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\VoidMethodAssignment.pdb
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.exe
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.pdb
