@@ -1,0 +1,7 @@
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe.config
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.pdb
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.AssemblyReference.cache
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.exe
+C:\Users\lukam\Documents\GitHub\Tech_Academy_C-sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.pdb
