@@ -7,11 +7,15 @@
       "RelativeMoniker": "D:0:0:{6EB22B20-6BC3-478D-9346-D63F3F12345B}|AbstractClassAssignment\\AbstractClassAssignment.csproj|solutionrelative:abstractclassassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EB22B20-6BC3-478D-9346-D63F3F12345B}|AbstractClassAssignment\\AbstractClassAssignment.csproj|c:\\users\\lukam\\documents\\github\\tech_academy_c-sharp_projects\\abstractclassassignment\\abstractclassassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EB22B20-6BC3-478D-9346-D63F3F12345B}|AbstractClassAssignment\\AbstractClassAssignment.csproj|C:\\Users\\lukam\\Documents\\GitHub\\Tech_Academy_C-sharp_Projects\\AbstractClassAssignment\\abstractclassassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EB22B20-6BC3-478D-9346-D63F3F12345B}|AbstractClassAssignment\\AbstractClassAssignment.csproj|solutionrelative:abstractclassassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EB22B20-6BC3-478D-9346-D63F3F12345B}|AbstractClassAssignment\\AbstractClassAssignment.csproj|c:\\users\\lukam\\documents\\github\\tech_academy_c-sharp_projects\\abstractclassassignment\\abstractclassassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EB22B20-6BC3-478D-9346-D63F3F12345B}|AbstractClassAssignment\\AbstractClassAssignment.csproj|c:\\users\\lukam\\documents\\github\\tech_academy_c-sharp_projects\\abstractclassassignment\\abstractclassassignment\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB22B20-6BC3-478D-9346-D63F3F12345B}|AbstractClassAssignment\\AbstractClassAssignment.csproj|solutionrelative:abstractclassassignment\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB22B20-6BC3-478D-9346-D63F3F12345B}|AbstractClassAssignment\\AbstractClassAssignment.csproj|C:\\Users\\lukam\\Documents\\GitHub\\Tech_Academy_C-sharp_Projects\\AbstractClassAssignment\\abstractclassassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EB22B20-6BC3-478D-9346-D63F3F12345B}|AbstractClassAssignment\\AbstractClassAssignment.csproj|solutionrelative:abstractclassassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,29 +38,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IQuittable.cs",
+              "DocumentMoniker": "C:\\Users\\lukam\\Documents\\GitHub\\Tech_Academy_C-sharp_Projects\\AbstractClassAssignment\\AbstractClassAssignment\\IQuittable.cs",
+              "RelativeDocumentMoniker": "AbstractClassAssignment\\IQuittable.cs",
+              "ToolTip": "C:\\Users\\lukam\\Documents\\GitHub\\Tech_Academy_C-sharp_Projects\\AbstractClassAssignment\\AbstractClassAssignment\\IQuittable.cs*",
+              "RelativeToolTip": "AbstractClassAssignment\\IQuittable.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:26:22.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\lukam\\Documents\\GitHub\\Tech_Academy_C-sharp_Projects\\AbstractClassAssignment\\AbstractClassAssignment\\Employee.cs",
               "RelativeDocumentMoniker": "AbstractClassAssignment\\Employee.cs",
               "ToolTip": "C:\\Users\\lukam\\Documents\\GitHub\\Tech_Academy_C-sharp_Projects\\AbstractClassAssignment\\AbstractClassAssignment\\Employee.cs*",
               "RelativeToolTip": "AbstractClassAssignment\\Employee.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T23:48:19.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\lukam\\Documents\\GitHub\\Tech_Academy_C-sharp_Projects\\AbstractClassAssignment\\AbstractClassAssignment\\Person.cs",
               "RelativeDocumentMoniker": "AbstractClassAssignment\\Person.cs",
-              "ToolTip": "C:\\Users\\lukam\\Documents\\GitHub\\Tech_Academy_C-sharp_Projects\\AbstractClassAssignment\\AbstractClassAssignment\\Person.cs*",
-              "RelativeToolTip": "AbstractClassAssignment\\Person.cs*",
+              "ToolTip": "C:\\Users\\lukam\\Documents\\GitHub\\Tech_Academy_C-sharp_Projects\\AbstractClassAssignment\\AbstractClassAssignment\\Person.cs",
+              "RelativeToolTip": "AbstractClassAssignment\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:21:09.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T23:21:09.068Z"
             },
             {
               "$type": "Document",
@@ -66,7 +82,7 @@
               "RelativeDocumentMoniker": "AbstractClassAssignment\\Program.cs",
               "ToolTip": "C:\\Users\\lukam\\Documents\\GitHub\\Tech_Academy_C-sharp_Projects\\AbstractClassAssignment\\AbstractClassAssignment\\Program.cs*",
               "RelativeToolTip": "AbstractClassAssignment\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T23:20:10.867Z",
               "EditorCaption": ""
