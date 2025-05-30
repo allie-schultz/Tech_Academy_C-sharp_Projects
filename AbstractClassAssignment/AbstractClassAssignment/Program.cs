@@ -15,13 +15,25 @@ namespace AbstractClassAssignment
             employee.firstName = "Sample";
             employee.lastName = "Student";
             employee.ID = 1;
+
+            // Create another Employee with different ID
+            Employee employee2 = new Employee();
+            employee2.firstName = "Another";
+            employee2.lastName = "Student";
+            employee2.ID = 2; 
+
             // Call the SayName method
             employee.SayName();
+            employee2.SayName();
 
             //Assign employee to IQuittable interface
             IQuittable quit = employee;
             // Call the Quit method
             quit.Quit();
+
+            // Demonstrate operator overloading
+            Console.WriteLine($"Are employees the same? {employee == employee2}");
+            Console.WriteLine($"Are employees different? {employee != employee2}");
 
             Console.ReadLine();
         }
