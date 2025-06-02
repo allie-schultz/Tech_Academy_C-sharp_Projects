@@ -10,17 +10,27 @@ namespace AbstractClassAssignment
     {
         static void Main(string[] args)
         {
+
+            // Create a generic type parameter for Employee 
+            Employee<string> stringThings = new Employee<string>();
+            Employee<int> intThings = new Employee<int>();
             // Create an instance of Employee
-            Employee employee = new Employee(); //inheriting from iQuittable interace as well
+            Employee<string> employee = new Employee<string>(); //inheriting from iQuittable interace as well
             employee.firstName = "Sample";
             employee.lastName = "Student";
             employee.ID = 1;
 
             // Create another Employee with different ID
-            Employee employee2 = new Employee();
+            Employee<string> employee2 = new Employee<string>();
             employee2.firstName = "Another";
             employee2.lastName = "Student";
-            employee2.ID = 2; 
+            employee2.ID = 2;
+
+            // Add some string data to the generic list
+            stringThings.Things = new List<string> { "Task1", "Task2", "Task3" };
+            // Addf some integer data to the generic list
+            intThings.Things = new List<int> { 1, 2, 3 };
+
 
             // Call the SayName method
             employee.SayName();
@@ -34,6 +44,20 @@ namespace AbstractClassAssignment
             // Demonstrate operator overloading
             Console.WriteLine($"Are employees the same? {employee == employee2}");
             Console.WriteLine($"Are employees different? {employee != employee2}");
+
+            // foreach loop to display string data
+            Console.WriteLine("String Things:");
+            foreach (var item in stringThings.Things)
+            {
+                Console.WriteLine(item);
+            }
+            // foreach loop to display integer data
+            Console.WriteLine("Integer Things:");
+            foreach (var item in intThings.Things)
+            {
+                Console.WriteLine(item);
+            }
+
 
             Console.ReadLine();
         }
