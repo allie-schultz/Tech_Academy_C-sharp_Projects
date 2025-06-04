@@ -58,6 +58,47 @@ namespace AbstractClassAssignment
                 Console.WriteLine(item);
             }
 
+            //List of 10 Employees
+            List<Employee<string>> employees = new List<Employee<string>>()
+            {
+                new Employee<string> { firstName = "John", lastName = "Doe", ID = 1 },
+                new Employee<string> { firstName = "Jane", lastName = "Smith", ID = 2 },
+                new Employee<string> { firstName = "Alice", lastName = "Johnson", ID = 3 },
+                new Employee<string> { firstName = "Joe", lastName = "Brown", ID = 4 }, //Joe 1
+                new Employee<string> { firstName = "Charlie", lastName = "Davis", ID = 5 },
+                new Employee<string> { firstName = "Eve", lastName = "Wilson", ID = 6 },
+                new Employee<string> { firstName = "Joe", lastName = "Garcia", ID = 7 }, //Joe 2
+                new Employee<string> { firstName = "Grace", lastName = "Martinez", ID = 8 },
+                new Employee<string> { firstName = "Hank", lastName = "Lopez", ID = 9 },
+                new Employee<string> { firstName = "Ivy", lastName = "Gonzalez", ID = 10 }
+            };
+
+            // Find and print all employees with the first name "Joe" using foreach
+            Console.WriteLine("Employees with the first name 'Joe':");
+            List<Employee<string>> joeEmployees = new List<Employee<string>>();
+            foreach (var emp in employees)
+            {
+                if (emp.firstName == "Joe")
+                {
+                    joeEmployees.Add(emp);
+                    Console.WriteLine($"Name: {emp.firstName} {emp.lastName}, ID: {emp.ID}");
+                }
+            }
+            // Find and print all employees with the first name "Joe" using lambda expression
+            Console.WriteLine("Employees with the first name 'Joe' using lambda expression:");
+            var joeEmployeesLambda = employees.Where(emp => emp.firstName == "Joe").ToList();
+            //print list from lambda expression
+            foreach (var emp in joeEmployeesLambda)
+            {
+                Console.WriteLine($"Name: {emp.firstName} {emp.lastName}, ID: {emp.ID}");
+            }
+            //Employees with ID greater than 5
+            var greaterThan5 = employees.Where(emp => emp.ID > 5).ToList();
+            Console.WriteLine("Employees with ID greater than 5:");
+            foreach (var emp in greaterThan5)
+            {
+                Console.WriteLine($"Name: {emp.firstName} {emp.lastName}, ID: {emp.ID}");
+            }
 
             Console.ReadLine();
         }
